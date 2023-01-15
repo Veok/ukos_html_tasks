@@ -11,7 +11,7 @@ Dodatkowo na samym końcu strony powinien znaleźć się formularz o takich pol
 Podczas zadania musisz wykorzystać poniższe znaczniki:
 1. zdjęć `<img>`
 2. pogrubienia `<b>`
-3. formularzu `<form>` z akcją `action="mailto:"` oraz metodą `method=post`
+3. formularza `<form>` z akcją `action="mailto:"` oraz metodą `method=post`
 4. input `<input>` o typie tekstowym oraz submit
 5. tabeli `<table>`
 6. nagłówku `<h1>`
