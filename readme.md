@@ -11,11 +11,14 @@ Dodatkowo na samym końcu strony powinien znaleźć się formularz o takich pol
 Podczas zadania musisz wykorzystać poniższe znaczniki:
 1. zdjęć `<img>`
 2. pogrubienia `<b>`
-3.formularzu `<form>` z akcją `action="mailto:"` oraz metodą `method=post`
+3. formularzu `<form>` z akcją `action="mailto:"` oraz metodą `method=post`
 4. input `<input>` o typie tekstowym oraz submit
 5. tabeli `<table>`
 6. nagłówku `<h1>`
 7. linku `<a href>`
 8. akapitu `<p>`
+9. listy `<ol>` lub `<ul>` 
+
+Do zadania przejrzyj witrynę [W3schools](https://www.w3schools.com/html/), na której znajdziesz listę większości znaczników HTML wraz z przykładami użycia.
 
 Dla gotowej strony internetowej stwórz własne repozytorium na Githubie i umieść ją tam. Używając stworzonego formularza (wypełnionego twoimi danymi, link do repozytorium ma być linkiem do stworzonego przed chwilą repo) na stronie wyślij maila do prowadzącego. 
