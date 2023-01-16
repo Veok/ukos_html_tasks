@@ -12,7 +12,7 @@ Podczas zadania musisz wykorzystać poniższe znaczniki:
 1. zdjęć `<img>`
 2. pogrubienia `<b>`
 3. formularza `<form>` z akcją `action="mailto:"` oraz metodą `method=post`
-4. input `<input>` o typie tekstowym oraz submit
+4. input `<input>` o typie tekstowym, url oraz submit
 5. tabeli `<table>`
 6. nagłówku `<h1>`
 7. linku `<a href>`
